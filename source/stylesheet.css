@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	width: 100%;
+}
+.container{
+	margin: 0 auto;
+	text-align: center;
+}
+.textboxes{
+	margin: 0 auto;
+	display: block;
+	outline: none;
+	resize:none;
+	overflow: hidden;
+	border: none;
+}
